@@ -1,0 +1,167 @@
+Dropbear SSH Server Multiple Security Vulnerabilities
+Junos TCP Packet Processing Denial of Service Vulnerability
+TCP Sequence Number Approximation Reset Denial of Service Vulnerability
+Fedora Update for lighttpd FEDORA-2015-12250
+Mageia Linux Local Check: mgasa-2015-0338
+Lighttpd http_auth.c Remote Code Execution Vulnerability - June15 Windows
+Fedora Update for lighttpd FEDORA-2015-12252
+Lighttpd http_auth.c Remote Code Execution Vulnerability - June15 Linux
+OpenSSH &lt;= 7.2p1 - Xauth Injection
+Mageia Linux Local Check: mgasa-2016-0108
+Mageia Linux Local Check: mgasa-2016-0133
+Fedora Update for lighttpd FEDORA-2016-9de7253cc7
+Squid Multiple Vulnerabilities - May16 Windows
+RedHat Update for openssh RHSA-2016:0465-01
+Fedora Update for openvpn FEDORA-2016-dc2cb4ad6b
+Debian Security Advisory DSA 3642-1 lighttpd - security update
+Fedora Update for openssh FEDORA-2016-0
+Amazon Linux Local Check: alas-2016-668
+Fedora Update for openvpn FEDORA-2016-7810e24465
+Squid Cache Poisoning Vulnerability May16 Linux
+Ubuntu Update for squid3 USN-2995-1
+Dnsmasq DoS Vulnerability
+Fedora Update for gsi-openssh FEDORA-2016-08
+Ubuntu Update for openssh USN-3061-1
+Mageia Linux Local Check: mgasa-2016-0113
+Fedora Update for openssh FEDORA-2016-7440fa5ce2
+Squid Cache Poisoning Vulnerability-01 May16 Linux
+OpenSSH auth_password Denial of Service Vulnerability Windows
+Fedora Update for lighttpd FEDORA-2016-07e9059072
+CentOS Update for openssh CESA-2016:0466 centos6
+Oracle Linux Local Check: ELSA-2016-3531
+Squid Multiple Denial of Service Vulnerabilities-01 May16 Linux
+Dropbear SSH CRLF Injection Vulnerability
+Fedora Update for squid FEDORA-2016-95edf19d8a
+Fedora Update for gsi-openssh FEDORA-2016-188267
+Ubuntu Update for dnsmasq USN-3009-1
+RedHat Update for openssh RHSA-2016:0466-01
+Squid Cache Poisoning Vulnerability May16 Windows
+Fedora Update for dnsmasq FEDORA-2016-6db1c9eb69
+CentOS Update for openssh CESA-2016:0465 centos7
+Ubuntu Update for openssh USN-2966-1
+Debian Security Advisory DSA 3626-1 openssh - security update
+Fedora Update for squid FEDORA-2016-b3b9407940
+Fedora Update for dropbear FEDORA-2016-40
+Squid Multiple Denial of Service Vulnerabilities-01 May16 Windows
+Squid Multiple Denial of Service Vulnerabilities March16 Windows
+Squid Multiple Vulnerabilities - May16 Linux
+Mageia Linux Local Check: mgasa-2016-0095
+Squid Multiple Denial of Service Vulnerabilities April16 Linux
+Squid Multiple Denial of Service Vulnerabilities March16 Linux
+OpenSSH auth_password Denial of Service Vulnerability Linux
+Squid Multiple Denial of Service Vulnerabilities April16 Windows
+Fedora Update for dnsmasq FEDORA-2016-da2f9c22b4
+Oracle Linux Local Check: ELSA-2016-0465
+Squid Cache Poisoning Vulnerability-01 May16 Windows
+Fedora Update for dropbear FEDORA-2016-332491
+Amazon Linux Local Check: alas-2016-750
+Squid Information Disclosure Vulnerability (Windows)
+Fedora Update for nodejs-tough-cookie FEDORA-2016-286a8ec5b0
+Amazon Linux Local Check: alas-2016-746
+Debian Security Advisory DSA 3745-1 (squid3 - security update)
+Fedora Update for openvpn FEDORA-2016-81d6e6a9ac
+Amazon Linux Local Check: alas-2016-713
+SSL/TLS: Report Vulnerable Cipher Suites for HTTPS
+Squid Information Disclosure Vulnerability (Windows)
+Squid Information Disclosure Vulnerability (Linux)
+Squid Information Disclosure Vulnerability (Linux)
+RedHat Update for squid RHSA-2017:0182-01
+SuSE Update for dnsmasq openSUSE-SU-2017:0016-1 (dnsmasq)
+Haraka Command Injection Vulnerability
+Ubuntu Update for squid3 USN-3192-1
+CentOS Update for squid CESA-2017:0182 centos7
+CentOS Update for squid34 CESA-2017:0183 centos6
+RedHat Update for squid34 RHSA-2017:0183-01
+Fedora Update for squid FEDORA-2016-c614315d29
+Fedora Update for dropbear FEDORA-2017-8e9bd58cbb
+Elasticsearch Kibana Multiple Vulnerabilities - Jul17
+Fedora Update for dropbear FEDORA-2017-b22de5c767
+Dropbear SSH 'CVE-2017-9078' Post-authentication root RCE Vulnerability
+Debian Security Advisory DSA 3859-1 (dropbear - security update)
+CentOS Update for openssh CESA-2017:2563 centos6
+RedHat Update for openssh RHSA-2017:2563-01
+EulerOS 2.0 SP2 : openssh (EulerOS-SA-2017-1190)
+SUSE SLES11 Security Update : dnsmasq (SUSE-SU-2016:3199-1)
+openSUSE Security Update : openssh (openSUSE-2016-1096)
+SUSE SLED12 / SLES12 Security Update : dnsmasq (SUSE-SU-2016:3269-1)
+Oracle Linux 6 : squid34 (ELSA-2017-0183)
+EulerOS 2.0 SP1 : squid (EulerOS-SA-2016-1025)
+AIX OpenSSH Advisory : openssh_advisory9.asc
+SUSE SLED12 / SLES12 Security Update : openssh (SUSE-SU-2016:2280-1)
+Virtuozzo 7 : squid / squid-migration-script / squid-sysvinit (VZLSA-2017-0182)
+Oracle Linux 7 : squid (ELSA-2016-2600)
+Scientific Linux Security Update : squid on SL7.x x86_64
+F5 Networks BIG-IP : OpenSSH vulnerability (K14845276)
+OracleVM 3.3 / 3.4 : openssh (OVMSA-2017-0150)
+Oracle Linux 6 : openssh (ELSA-2017-2563)
+SUSE SLES11 Security Update : squid3 (SUSE-SU-2017:0110-1)
+SUSE SLES11 Security Update : kernel (SUSE-SU-2017:0494-1)
+openSUSE Security Update : squid (openSUSE-2017-127)
+EulerOS 2.0 SP2 : squid (EulerOS-SA-2017-1018)
+SUSE SLES12 Security Update : squid (SUSE-SU-2017:0116-1)
+Squid 3.5.x < 3.5.23 / 4.x < 4.0.17 Multiple Vulnerabilities
+Debian DSA-3859-1 : dropbear - security update
+Oracle Linux 7 : openssh (ELSA-2017-2029)
+Scientific Linux Security Update : squid34 on SL6.x i386/x86_64
+CentOS 6 : openssh (CESA-2017:2563)
+Fedora 25 : dropbear (2017-8e9bd58cbb)
+Fedora 24 : dropbear (2017-b22de5c767)
+Ubuntu 14.04 LTS / 16.04 LTS / 16.10 / 17.04 : openvpn vulnerabilities (USN-3339-1) (SWEET32)
+Oracle Linux 7 : squid (ELSA-2017-0182)
+SUSE SLED12 / SLES12 Security Update : openvpn (SUSE-SU-2017:1622-1) (SWEET32)
+Debian DLA-655-1 : mpg123 security update
+SUSE SLES11 Security Update : openssh (SUSE-SU-2016:2388-1)
+CentOS 6 : squid34 (CESA-2017:0183)
+RHEL 6 : squid34 (RHSA-2017:0183)
+EulerOS 2.0 SP1 : squid (EulerOS-SA-2017-1017)
+Ubuntu 12.04 LTS / 14.04 LTS / 16.04 LTS / 16.10 : squid3 vulnerabilities (USN-3192-1)
+Fedora 25 : 7:squid (2016-c614315d29)
+CentOS 7 : openssh (CESA-2017:2029)
+SUSE SLES12 Security Update : squid (SUSE-SU-2017:0128-1)
+Virtuozzo 6 : squid34 (VZLSA-2017-0183)
+openSUSE Security Update : openvpn (openSUSE-2017-717) (SWEET32)
+Scientific Linux Security Update : squid on SL7.x x86_64
+openSUSE Security Update : squid (openSUSE-2017-115)
+RHEL 7 : openssh (RHSA-2017:2029)
+SUSE SLES11 Security Update : openssh (SUSE-SU-2016:2281-1)
+CentOS 7 : squid (CESA-2017:0182)
+openSUSE Security Update : dnsmasq (openSUSE-2017-10)
+Fedora 26 : dropbear (2017-a50319c820)
+Scientific Linux Security Update : openssh on SL7.x x86_64
+SUSE SLES11 Security Update : kernel (SUSE-SU-2017:0333-1)
+EulerOS 2.0 SP1 : openssh (EulerOS-SA-2017-1189)
+EulerOS 2.0 SP1 : openssh (EulerOS-SA-2016-1008)
+RHEL 6 : openssh (RHSA-2017:2563)
+F5 Networks BIG-IP : SSHD session.c vulnerability (K93532943)
+EulerOS 2.0 SP1 : squid (EulerOS-SA-2016-1056)
+RHEL 7 : squid (RHSA-2016:2600)
+RHEL 7 : squid (RHSA-2017:0182)
+CentOS 7 : squid (CESA-2016:2600)
+Debian Security Advisory DSA 3989-1 (dnsmasq - security update)
+SugarCRM php-saml Vulnerability
+CentOS 7 : dnsmasq (CESA-2017:2836)
+FreeBSD : dnsmasq -- multiple vulnerabilities (b77b5646-a778-11e7-ac58-b499baebfeaf)
+SUSE SLES12 Security Update : dnsmasq (SUSE-SU-2017:2616-1)
+SUSE SLED12 / SLES12 Security Update : dnsmasq (SUSE-SU-2017:2618-1)
+Amazon Linux AMI : dnsmasq (ALAS-2017-907)
+Amazon Linux AMI : openssh (ALAS-2017-898)
+dnsmasq < 2.78 Multiple Remote Vulnerabilities
+Ubuntu 14.04 LTS / 16.04 LTS / 17.04 : dnsmasq vulnerabilities (USN-3430-1)
+Oracle Linux 7 : dnsmasq (ELSA-2017-2836)
+RHEL 7 : dnsmasq (RHSA-2017:2836)
+SUSE SLES11 Security Update : dnsmasq (SUSE-SU-2017:2617-1)
+openSUSE Security Update : dnsmasq (openSUSE-2017-1116)
+Scientific Linux Security Update : dnsmasq on SL7.x x86_64
+SUSE SLES11 Security Update : dnsmasq (SUSE-SU-2017:2619-1)
+OpenSSH 'sftp-server' Security Bypass Vulnerability (Linux)
+OpenSSH 'sftp-server' Security Bypass Vulnerability (Windows)
+Fedora Update for openssh FEDORA-2017-4862a3bfb1
+openSUSE Security Update : openssh (openSUSE-2017-1351)
+Fedora 26 : dnsmasq (2017-24f067299e)
+SUSE SLES11 Security Update : openvpn (SUSE-SU-2017:2838-1) (SWEET32)
+Fedora 25 : openssh (2017-78f0991378)
+Fedora 25 : dnsmasq (2017-515264ae24)
+SUSE SLED12 / SLES12 Security Update : openssh (SUSE-SU-2017:3230-1)
+Fedora 26 : openssh (2017-4862a3bfb1)
+Fedora Update for openssh FEDORA-2017-96d1995b70
+Fedora Update for openssh FEDORA-2017-78f0991378

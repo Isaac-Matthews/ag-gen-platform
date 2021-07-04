@@ -1,0 +1,22 @@
+FROM alpine:latest
+
+RUN \
+    apk update && \
+    apk upgrade && \
+    apk add paxctl && \
+    apk add attr && \
+    mkdir -p /opt/java
+WORKDIR /opt/java
+ADD jdk-9.0.4_linux-x64_bin.tar.gz /opt/java
+RUN \
+    ln -s /opt/java/jdk-9.0.4 /opt/java/current
+ENV JAVA_HOME=/opt/java/current
+ENV PATH=$PATH:$JAVA_HOME/bin
+RUN \
+    cd $JAVA_HOME/bin && \
+    paxctl -c java && \
+    paxctl -m java && \
+    paxctl -c javac && \
+    paxctl -m javac && \
+    setfattr -n user.pax.flags -v "mr" java && \
+    setfattr -n user.pax.flags -v "mr" javac

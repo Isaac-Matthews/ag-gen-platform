@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.gephi:gephi-toolkit:0.9.3-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/gephi/gephi-toolkit/0.9.3-SNAPSHOT/gephi-toolkit-0.9.3-20180308.235805-172.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/gephi/gephi-toolkit/0.9.3-SNAPSHOT/gephi-toolkit-0.9.3-20180308.235805-172-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/gephi/gephi-toolkit/0.9.3-SNAPSHOT/gephi-toolkit-0.9.3-20180308.235805-172-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

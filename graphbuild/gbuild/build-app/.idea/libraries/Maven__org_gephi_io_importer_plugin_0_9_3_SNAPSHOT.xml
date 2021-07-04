@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.gephi:io-importer-plugin:0.9.3-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/gephi/io-importer-plugin/0.9.3-SNAPSHOT/io-importer-plugin-0.9.3-20180302.205428-37.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/gephi/io-importer-plugin/0.9.3-SNAPSHOT/io-importer-plugin-0.9.3-20180302.205428-37-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/gephi/io-importer-plugin/0.9.3-SNAPSHOT/io-importer-plugin-0.9.3-20180302.205428-37-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

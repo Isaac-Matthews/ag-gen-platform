@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.gephi:algorithms-plugin:0.9.3-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/gephi/algorithms-plugin/0.9.3-SNAPSHOT/algorithms-plugin-0.9.3-20180302.205431-37.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/gephi/algorithms-plugin/0.9.3-SNAPSHOT/algorithms-plugin-0.9.3-20180302.205431-37-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/gephi/algorithms-plugin/0.9.3-SNAPSHOT/algorithms-plugin-0.9.3-20180302.205431-37-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

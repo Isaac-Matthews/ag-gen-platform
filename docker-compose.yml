@@ -1,0 +1,30 @@
+version: '2'
+services:
+  mulval:
+    image: scimitar/mulmod:latest
+    volumes:
+      - ./input:/input
+
+  mulgen:
+    entrypoint: compose-generate.sh
+    image: scimitar/mulmod:latest
+    volumes:
+      - ./input:/input
+
+  xqdb:
+      image: scimitar/xq_db:latest
+      container_name: xqdb
+      restart: always
+      # expose:
+      #   - "3306"
+      ports:
+        - "127.0.0.1:3306:3306"
+      environment:
+        MYSQL_ROOT_PASSWORD: root
+
+  graphbuild:
+    depends_on:
+      - xqdb
+    image: scimitar/graphbuild:latest
+    volumes:
+      - ./input:/input
